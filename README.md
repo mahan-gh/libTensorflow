@@ -1,4 +1,4 @@
-# [libtensorflow](https://github.com/tensorflow/tensorflow) v2.13 – Haswell-optimized build (WSL Debian)
+# [libTensorflow](https://github.com/tensorflow/tensorflow) v2.13 – Haswell-optimized build (WSL Debian)
 
 This repository provides a precompiled **TensorFlow v2.13** C API shared library (`libtensorflow.so`) plus C++ headers (optional) built specifically for **Intel Haswell** microarchitecture.  
 The build was performed on **WSL2 (Windows Subsystem for Linux)** running **Debian** (Bookworm), with optimizations for AVX2, FMA, and MKL.
